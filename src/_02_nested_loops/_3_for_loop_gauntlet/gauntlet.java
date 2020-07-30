@@ -44,16 +44,61 @@ for (int i = 0; i < 101; i++) {
 	
 	
 	
-	for (int i = 0; i < ; i++) {
+	//for (int i = 0; i < 2 ; i++) {
 		
+	//}
+	//for(int i = 0; i < 3; i++){
+		  //for(int j = 0; j < 3; j++){
+		    // System.out.println(i + "" + j);
+		 // }
+		//}
+
+	int number = 1;
+	for(int i = 0; i < 10; i++){
+	
+		  for(int j = 0; j < 10; j++){
+			System.out.print(number);
+			number++;
+		
+			
+		 		  
+		  }
+		  System.out.println(); 
+		}
+	
+	
+	
+	
+	for (int i = 0; i < 6; i++) {
+		for (int j = 0; j < i; j++) {
+			
+		
+		System.out.print("*");
 	}
+	System.out.println();	}
+
+	
+	
+	
+	for (int i = 0; i < 101; i++) {
+		System.out.println(100-i);
+	}
+	
+	
+	
+	
+	
+	
+	
+	
 }
+
 
 }
 	
 
 	
-}
+
 	
     
 	
